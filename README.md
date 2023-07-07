@@ -32,9 +32,11 @@ I am saving the bookId(saved_books) and the user id-tokon on my local storage.
 
 ![5](screenshots/5.png)
 
+![7](screenshots/7.png)
+
 ![6](screenshots/6.png)
 
-![7](screenshots/7.png)
+
 
 
 
